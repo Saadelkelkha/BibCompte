@@ -1,0 +1,39 @@
+{
+  "compte": [
+    {
+      "Numero": "Numero",
+      "Proprietaire": "Propritaire",
+      "SoldeIntial": "SoldeIntial",
+      "Taux interet": "Taux interet",
+      "Montant Decouvert": "Montant Decouvert"
+    },
+    {
+      "Numero": 1,
+      "Proprietaire": "Bob",
+      "SoldeIntial": "1265",
+      "Taux interet": "",
+      "Montant Decouvert": "125"
+    },
+    {
+      "Numero": 2,
+      "Proprietaire": "Jean",
+      "SoldeIntial": "5000",
+      "Taux interet": "12",
+      "Montant Decouvert": ""
+    },
+    {
+      "Numero": 3,
+      "Proprietaire": "Ali",
+      "SoldeIntial": "8000",
+      "Taux interet": "36",
+      "Montant Decouvert": ""
+    },
+    {
+      "Numero": 4,
+      "Proprietaire": "Mina",
+      "SoldeIntial": "56933",
+      "Taux interet": "",
+      "Montant Decouvert": "123"
+    }
+  ]
+}
