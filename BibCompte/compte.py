@@ -4,6 +4,11 @@ import json
 class Compte:
     # Class variable to track the account number
     numero = 0
+    with open("data.json","r") as file :
+        data = json.load(file)
+    for i in data["compte"]:
+        if type(i["Numero"]) == int :
+            numero = i["Numero"]
 
     def __init__(self, proprietaire, solde):
         # Incrementing account number on each instance creation
